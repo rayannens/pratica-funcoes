@@ -36,7 +36,7 @@ const calculadora = {
         return `${a} * ${b} = ${a * b}`;
     },
     dividir: function(a,b){
-        return `${a} / ${b} = ${a /b }`;
+        return `${a} / ${b} = ${a / b }`;
     },
 }
 console.log(calculadora.somar(70,90));
